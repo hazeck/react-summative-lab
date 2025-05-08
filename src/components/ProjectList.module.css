@@ -1,0 +1,29 @@
+.projectList {
+  list-style: none;
+  padding: 0;
+}
+
+.projectItem {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.searchInput {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 20px;
+}
+
+.deleteButton {
+  background-color: #e74c3c;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.deleteButton:hover {
+  background-color: #c0392b;
+}
